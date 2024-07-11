@@ -8,3 +8,4 @@ sum = 0;
 for j in  range(0, InputNumber):
     sum = int(input())
 print(sum / InputNumber);
+
